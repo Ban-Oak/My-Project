@@ -1,4 +1,8 @@
 Hi, github! It's me Ban...
 
+<<<<<<< HEAD
 I like eating.
 I like blue.
+=======
+I like travelling.
+>>>>>>> practice
